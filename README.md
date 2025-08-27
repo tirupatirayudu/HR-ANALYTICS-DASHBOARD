@@ -29,4 +29,4 @@ Data help users explore and compare overEmployee headcount & demographics
 ✅ Employee satisfaction and engagement .
 
 Features / Highlights The best dashboard explanation format. 💼Hiring & Attrition Trends 📊Goal of the dashboard 🚀Walk through of key visuals (briefly) 📝Impact & Insights  
-6.Screenshot :-
+6.Screenshot :-https://github.com/tirupatirayudu/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.png
